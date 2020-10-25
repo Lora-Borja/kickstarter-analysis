@@ -3,12 +3,12 @@
 Performing an analysis on Kickstarter dataset to uncover trends for Louise.
 ### Purpose
 To determine the outcomes of kickstarter campaigns based on the funding goals and their launch dates.
-## Analysis and Challenges
+### Analysis and Challenges
 ---
-### Analysis of Outcomes Based on Launch Date
+### Analysis of Outcomes Based on Launch Date Chart
 !Theater_Outcomes_Based_on_Launch_Dates(https://github.com/Lora-Borja/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_Based_on_Launch_Dates.png)
 ---
-### Analysis of Outcomes Based on Goals
+### Analysis of Outcomes Based on Goals Chart
 !Outcomes_vs_Goals(https://github.com/Lora-Borja/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 ---
 ### Challenges and Difficulties Encountered
