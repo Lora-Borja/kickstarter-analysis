@@ -1,8 +1,8 @@
 # Kickstarting with Excel
 ### Overview of the project
-Performing an analysis on Kickstarter dataset to uncover trends for Louise.
+I have performed an analysis on a Kickstarter dataset to uncover trends for Louise.
 ### Purpose
-To determine the outcomes of Kickstarter "theater" campaigns based on the funding goals and their launch dates.
+Louise is an up-and-coming playwright who wants to start a crowdfunding campaign to help her play, Fever, and she's estimating a budget of over $10K. In order to help her make decisions, I had to determine the outcomes of Kickstarter theater campaigns based on the funding goals and their launch dates.
 
 ---
 ### Analysis of Outcomes Based on Launch Date Chart
