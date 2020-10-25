@@ -17,7 +17,7 @@ I had some challenges trying to figure out the excel formula functions, specific
 !Outcomes_vs_Goals(https://github.com/Lora-Borja/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ---
-### Results
+### Results and Conclusions
 Based on the outcomes by launch dates:
 * The most successful theater campaigns were started in May
     - December in particular is the worst time to launch a campaign
