@@ -21,7 +21,7 @@ I had some challenges trying to figure out the excel formula functions, specific
 * The most successful theater campaigns were started in May
     - December in particular is the worst time to launch a campaign
 * More than half of the overall campaigns for plays were successful based on funding goals
-    - Funding goals of less than $5,000 as well as between $35K-45K we the most successful
+    - Funding goals of less than $5,000 as well as between $35K-45K were the most successful
     - Funding goals of more than $50K had a higher chance of failing
 ---
 ### Challenges and Difficulties Encountered
