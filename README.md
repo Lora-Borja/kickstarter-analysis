@@ -26,4 +26,5 @@ Based on the outcomes on goals:
 * More than half of the overall campaigns for plays were successful based on funding goals
     - Funding goals of less than $5,000 as well as between $35K-45K were the most successful
     - Funding goals of more than $50K had a higher chance of failing
+According to these assumptions, Louise can plan her campaign by mirroring other successful ones in the same theater category.
 
