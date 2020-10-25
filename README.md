@@ -6,10 +6,10 @@ To determine the outcomes of kickstarter campaigns based on the funding goals an
 ## Analysis and Challenges
 ---
 ### Analysis of Outcomes Based on Launch Date
-###!Theater_Outcomes_Based_on_Launch_Dates(https://github.com/Lora-Borja/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_Based_on_Launch_Dates.png)
+!Theater_Outcomes_Based_on_Launch_Dates(https://github.com/Lora-Borja/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_Based_on_Launch_Dates.png)
 ---
 ### Analysis of Outcomes Based on Goals
-###!Outcomes_vs_Goals(https://github.com/Lora-Borja/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+!Outcomes_vs_Goals(https://github.com/Lora-Borja/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 ---
 ### Challenges and Difficulties Encountered
 ## Results
