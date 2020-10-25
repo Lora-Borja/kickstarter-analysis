@@ -26,7 +26,4 @@ Based on the outcomes on goals:
 * More than half of the overall campaigns for plays were successful based on funding goals
     - Funding goals of less than $5,000 as well as between $35K-45K were the most successful
     - Funding goals of more than $50K had a higher chance of failing
----
-### Challenges and Difficulties Encountered
-*What are some limitations of this dataset?
-*What are some other possible tables and/or graphs that we could create?
+
