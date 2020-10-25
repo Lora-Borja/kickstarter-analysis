@@ -11,7 +11,7 @@ To determine the outcomes of Kickstarter "theater" campaigns based on the fundin
 !Outcomes_vs_Goals(https://github.com/Lora-Borja/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ---
-## Results
+### Results
 * The most successful theater campaigns were started in May
     - December in particular is the worst time to launch a campaign
 * More than half of the overall campaigns for plays were successful based on funding goals
