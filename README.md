@@ -9,6 +9,7 @@ To determine the outcomes of Kickstarter "theater" campaigns based on the fundin
 !Theater_Outcomes_Based_on_Launch_Dates(https://github.com/Lora-Borja/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_Based_on_Launch_Dates.png)
 ### Analysis of Outcomes Based on Goals Chart
 !Outcomes_vs_Goals(https://github.com/Lora-Borja/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+
 ---
 ## Results
 * The most successful theater campaigns were started in May
