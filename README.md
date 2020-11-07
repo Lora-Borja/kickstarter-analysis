@@ -12,9 +12,9 @@ I had some challenges trying to figure out the excel formula functions, specific
 
 ---
 ### Analysis of Outcomes Based on Launch Date Chart
-!Theater_Outcomes_Based_on_Launch_Dates(https://github.com/Lora-Borja/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_Based_on_Launch_Dates.png)
+![Theater_Outcomes_Based_on_Launch_Dates](https://github.com/Lora-Borja/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_Based_on_Launch_Dates.png)
 ### Analysis of Outcomes Based on Goals Chart
-!Outcomes_vs_Goals(https://github.com/Lora-Borja/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://github.com/Lora-Borja/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ---
 ### Results and Conclusions
